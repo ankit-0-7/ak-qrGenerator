@@ -1,2 +1,2 @@
 # ak-qrGenerator
-QR code Generator Using JS
+Simple QR code Generator using Basic JS concepts and using QR Code API
